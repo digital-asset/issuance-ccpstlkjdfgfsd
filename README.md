@@ -4,7 +4,7 @@
 
 Runbook for the [demo issuance](/demo.md).
 
-## Testnet Issuance #1 - March xx, 2026
+## Testnet Issuance #1 - April xx, 2026
 
 Runbook for the [testnet issuance #1 - TBC](/testnet-1.md).
 
